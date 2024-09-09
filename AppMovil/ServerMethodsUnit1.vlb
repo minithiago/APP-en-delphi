@@ -1,0 +1,12 @@
+﻿[FDConnection1]
+Coordinates=122,71,90,33
+
+[FDQueryLogin]
+Coordinates=123,10,85,51
+
+[FDQueryGrid]
+Coordinates=10,10,103,195
+
+[FDPhysMSSQLDriverLink1]
+Coordinates=226,1,145,33
+
